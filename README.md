@@ -6,4 +6,4 @@ Napravila sam digitalnu stopericu u programu Flowcode. Stoperica ima cetiri tast
 PIC mikrokontroler
 
 **#Autor**
-Armina Spahic
+-Armina Spahic
